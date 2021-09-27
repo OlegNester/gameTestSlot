@@ -1,0 +1,2 @@
+rootProject.name = "rctst"
+include ':app'
